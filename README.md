@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-XP262)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-XP262)
 
-# Session ID - Session Title
+# XP262 - Combining SAP BTP Technologies in SAP’s New Entry Point Experience
 
 ## Description
 
