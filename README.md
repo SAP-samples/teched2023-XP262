@@ -8,11 +8,12 @@ This repository contains the material for the SAP TechEd 2022 session called Ses
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to learn how to setup and configure a "central entry point" based on SAP Build Work Zone Standard Edition and combining/integration other services like SAP Task Center.
+Furthermore the attendees will learn how to consume UI content (interest cards) from SAP solutions like SAP S4/HANA Cloud and SAP SuccessFactors.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are to have knowledge of SAP BTP concepts, nice to have is also a basic understanding of SAP Build Work Zone Standard Edition.
 
 ## Exercises
 
