@@ -15,14 +15,22 @@ Furthermore the attendees will learn how to consume UI content (interest cards) 
 
 The requirements to follow the exercises in this repository are to have knowledge of SAP BTP concepts, nice to have is also a basic understanding of SAP Build Work Zone Standard Edition.
 
+## SAP BTP Solution Architecture
+
+tbd
+
+
 ## Exercises
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+- [Getting Started / enter you the BTP environment](exercises/ex0/)
+- [Exercise 1 - Create and configure you SAP Build Work Zone site](exercises/ex1/)
+    - [Exercise 1.1 - Add pages and spaces to you "site"](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.2 - Integrate applications to you site](exercises/ex1#exercise-12-sub-exercise-2-description)
+    - [Exercise 1.3 - Enter your new site as "end user"](exercises/ex1#exercise-13-sub-exercise-3-description)
+    - [Exercise 1.4 - Enter your new site as "end user"](exercises/ex1#exercise-14-sub-exercise-4-description)
+    - [Exercise 1.5 - Deploy a ](exercises/ex1#exercise-15-sub-exercise-4-description)
 - [Exercise 2 - Second Exercise Description](exercises/ex2/)
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
