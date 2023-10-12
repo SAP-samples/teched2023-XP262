@@ -1,19 +1,20 @@
-# Exercise 2 - Exercise 2 Description
+# Exercise 2 - Integrate and explore SAP Task Center
 
-In this exercise, we will create...
+In this exercise, we will create a purchase requisition in SAP S/4HANA Cloud to see this PR in SAP Task Center.
 
-## Exercise 2.1 Sub Exercise 1 Description
+## Exercise 2.1 create a purchase requisition in SAP S/4HANA Cloud
 
-After completing these steps you will have created...
+To create a PR please enter the following URL (https://s4hanacloudurl//ui#PurchaseOrder-manage&/C_PurchaseOrderTP(PurchaseOrder='4500000023',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true))
 
-1. Click here.
-<br>![](/exercises/ex2/images/02_01_0010.png)
+![](images/s4prcopy.jpg)
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello ABAP World! | ). 
-```
+Click now on the ##copy## button:
 
+![](images/s4prcopy_order.jpg)
+
+Do not change anything an press finally the ##order## button:
+
+![](images/s4prcopy_success.jpg)
 
 
 ## Exercise 2.2 Sub Exercise 2 Description
