@@ -33,7 +33,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.4 - Assign content to your site](exercises/ex1#exercise-13-sub-exercise-3-description)
     - [Exercise 1.5 - Enter your new site as enduser](exercises/ex1#exercise-14-sub-exercise-4-description)
 - [Exercise 2 - Integrate and explore SAP Task Center](exercises/ex2/)
-    - [Exercise 2.1 - Create a purchase requisition in SAP S/4HANA Cloud](exercises/ex2#exercise-21-sub-exercise-1-description)
+    - [Exercise 2.1 - Create a purchase requisition in SAP S/4HANA Cloud](exercises/ex2#exercise-21-create-a-purchase-requisition-in-sap-s4hana-cloud)
     - [Exercise 2.2 - Add SAP Task Center tile to your site](exercises/ex2#exercise-22-sub-exercise-2-description)
     - [Exercise 2.2 - Validate and explore the task](exercises/ex2#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate and explore SAP Mobile Start](exercises/ex2/)
