@@ -17,27 +17,22 @@ Do not change anything an press finally the ##order## button:
 ![](images/s4prcopy_success.jpg)
 
 
-## Exercise 2.2 Sub Exercise 2 Description
+## Exercise 2.2 add the SAP Task Center tile to your site
 
-After completing these steps you will have...
+To add now the SAP Task Center web application to your newly created site please follow the official SAP documentation at [SAP Help}(https://help.sap.com/docs/task-center/sap-task-center/create-task-center-tile-on-sap-build-work-zone-standard-edition?state=DRAFT&version=Cloud)
 
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc = 0.
-    response->set_status( i_code = 200
-                     i_reason = 'Everything is fine').
-    RETURN.
-  ENDIF.
+By executing these steps you should have the SAP Task Center tiles available at the SAP Build Work Zone site manger:
 
-```
+![](images/content_manager_tc.jpg)
+
+Afterwards you can simply select the site manager from the right hand side and launch you site by pressing the "Go to site" icon:
+
+![](images/stc_launch.jpg)
+
+After completing these steps you will have now successfully integrated the SAP Task Center applications in your site.
+
 
 2.	Click here.
-<br>![](/exercises/ex2/images/02_02_0010.png)
 
-## Summary
-
-You've now ...
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
