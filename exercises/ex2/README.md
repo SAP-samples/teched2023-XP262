@@ -24,6 +24,12 @@ To add now the SAP Task Center web application to your newly created site please
 To integrate the SAP Task Center applications please completing these steps:
 
 1. Enter the site manager from SAP Build Work Zone [URL see Excercise 1](../ex1/README.md)
+2. Switch now over to the content manager:
+![](images/content_manager_access.jpg)
+3. In the content manager you will see now the already available SAP Task Center apps and also multiple roles like **XP262_001_Role**:
+![](images/content_manager_tc.jpg)
+4. 
+
 
 By executing these steps you should have the SAP Task Center tiles available at the SAP Build Work Zone site manger:
 
