@@ -17,7 +17,7 @@ The requirements to follow the exercises in this repository are to have knowledg
 
 ## SAP BTP Solution Architecture
 
-tbd
+![](images/)
 
 
 ## Exercises
