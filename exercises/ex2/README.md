@@ -19,7 +19,11 @@ Do not change anything an press finally the ##order## button:
 
 ## Exercise 2.2 add the SAP Task Center tile to your site
 
-To add now the SAP Task Center web application to your newly created site please follow the official SAP documentation at [SAP Help}(https://help.sap.com/docs/task-center/sap-task-center/create-task-center-tile-on-sap-build-work-zone-standard-edition?state=DRAFT&version=Cloud)
+To add now the SAP Task Center web application to your newly created site please check also the official SAP documentation at [SAP Help](https://help.sap.com/docs/task-center/sap-task-center/create-task-center-tile-on-sap-build-work-zone-standard-edition)
+
+To integrate the SAP Task Center applications please completing these steps:
+
+1. Enter the site manager from SAP Build Work Zone [URL see Excercise 1](../ex1/README.md)
 
 By executing these steps you should have the SAP Task Center tiles available at the SAP Build Work Zone site manger:
 
