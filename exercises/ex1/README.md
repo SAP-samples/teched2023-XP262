@@ -4,7 +4,7 @@ In this exercise you’ll create a business site and then add business apps to t
 > [!IMPORTANT]
 > Wherever ### is mentioned, please replace this with your assigned User ID. For example, 'WZ Site 001' instead of 'WZ Site ###'.
 
-## Exercise 1.1 Create your "site" 
+## Exercise 1.1 - Create your "site" 
 After completing these steps you will have created a site in SAP Build Work Zone and configured for the desired layout.
 
 1. Click 'Create' in SAP Build Lobby.
@@ -47,7 +47,6 @@ Under Display, select Spaces and Pages - New Experience.
 11. Navigate back to the Site Directory to view the site tile.
   ![](/exercises/ex1/images/edit_site_back.png)
 Your site is empty for now. In the next steps, you’re going to add business apps to your site.
-
 
 ## Exercise 1.2 - Integrate an SAPUI5 App
 After completing these steps you will have added an existing SAPUI5 app to a site in the SAP Build Work Zone.
