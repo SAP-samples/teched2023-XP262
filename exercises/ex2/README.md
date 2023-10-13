@@ -42,7 +42,7 @@ To integrate the SAP Task Center applications into your new page please complete
 
 ![](images/add_tc_apps.jpg)
 
-- Enable now the new applications in your role:
+- Switch now back to the **content manager** and select the role to enable the new applications:
 
 ![](images/add_apps_to_role.jpg)
 
