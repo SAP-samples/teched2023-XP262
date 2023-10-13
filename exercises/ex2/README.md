@@ -52,7 +52,7 @@ Afterwards you can simply select the site manager from the right hand side and l
 
 ![](images/stc_launch.jpg)
 
-After completing these steps you have now successfully integrated SAP Task Center in your site !!!
+**Congratulations you have now successfully integrated SAP Task Center in your site !!!** :wave:
 
 
 2.	Click here.
