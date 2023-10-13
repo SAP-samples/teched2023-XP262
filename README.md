@@ -24,21 +24,24 @@ The requirements to follow the exercises in this repository are to have knowledg
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [Getting Started / enter you the SAP BTP environment](exercises/ex0/)
-- [Exercise 1 - Create and configure you SAP Build Work Zone site](exercises/ex1/)
-    - [Exercise 1.1 - Create your "site"](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Integrate applications to your site](exercises/ex1#exercise-12-sub-exercise-2-description)
-    - [Exercise 1.3 - Design your site by creating spaces & pages](exercises/ex1#exercise-13-sub-exercise-3-description)
-    - [Exercise 1.4 - Assign content to your site](exercises/ex1#exercise-14-sub-exercise-4-description)
+- [Getting Started / Enter Your SAP BTP environment](exercises/ex0/)
+- [Exercise 1 - Create and configure Your SAP Build Work Zone site](exercises/ex1/)
+    - [Exercise 1.1 - Create Your "site"](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 1.2 - Integrate an SAPUI5 App](exercises/ex1#exercise-12-sub-exercise-1-description)
+    - [Exercise 1.3 - Integrate a URL App](exercises/ex1#exercise-13-sub-exercise-1-description)
+    - [Exercise 1.4 - Create a Page](exercises/ex1#exercise-14-sub-exercise-1-description)
+    - [Exercise 1.5 - Create a Space](exercises/ex1#exercise-15-sub-exercise-1-description)
+    - [Exercise 1.6 - Add Content to Role](exercises/ex1#exercise-16-sub-exercise-1-description)
+    - [Exercise 1.7 - Add Role(s) to Site](exercises/ex1#exercise-17-sub-exercise-1-description)
 - [Exercise 2 - Integrate and explore SAP Task Center](exercises/ex2/)
     - [Exercise 2.1 - Create a purchase requisition in SAP S/4HANA Cloud](exercises/ex2#exercise-21-create-a-purchase-requisition-in-sap-s4hana-cloud)
     - [Exercise 2.2 - Add SAP Task Center tile to your site](exercises/ex2#exercise-22-add-the-sap-task-center-tile-to-your-site)
     - [Exercise 2.2 - Validate and explore the task](exercises/ex2#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate and explore SAP Mobile Start](exercises/ex2/)
-    - [Exercise 3.1 - Enable SAP Mobile Start for your site](exercises/ex2#exercise-31-sub-exercise-1-description)
+    - [Exercise 3.1 - Enable SAP Mobile Start for Your site](exercises/ex2#exercise-31-sub-exercise-1-description)
     - [Exercise 3.2 - Add mobile app as content](exercises/ex2#exercise-32-sub-exercise-2-description)
-    - [Exercise 3.3 - Download/Activate your site in SAP Mobile Start](exercises/ex2#exercise-33-sub-exercise-3-description)
-    - [Exercise 3.4 - Validate and explore content on your "mobile"](exercises/ex2#exercise-34-sub-exercise-4-description)
+    - [Exercise 3.3 - Activate Your site in SAP Mobile Start](exercises/ex2#exercise-33-sub-exercise-3-description)
+    - [Exercise 3.4 - Validate and explore content on your mobile device](exercises/ex2#exercise-34-sub-exercise-4-description)
 
 **IMPORTANT**
 
