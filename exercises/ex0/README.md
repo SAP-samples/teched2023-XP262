@@ -4,8 +4,11 @@ In this exercise, you will test the access to the SAP Business Technology Platfo
 
 ## Enter SAP Build Lobby
 
-To get started, please enter the SAP Build Lobby to get started with this Hands-On:
+To get started, please open the provided URL for the SAP Build Lobby. To access, login via the following SAP Cloud Identity Services (Identity Authentication / IAS) login screen with the provided credentials.
 
+<img src="https://github.com/SAP-samples/teched2023-XP262/blob/main/exercises/ex0/images/ias_login.png" width="250" height="355">
+
+After successful login, the SAP Build Lobby should be shown allowing you to get started with this Hands-On:
 ![](images/build_lobby.jpg)
 
 
