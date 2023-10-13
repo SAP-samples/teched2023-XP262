@@ -21,7 +21,7 @@ In this exercise, we will create a **purchase requisition** in SAP S/4HANA Cloud
 
 To add now the SAP Task Center web application to your newly created site please check also the official SAP documentation at [SAP Help](https://help.sap.com/docs/task-center/sap-task-center/create-task-center-tile-on-sap-build-work-zone-standard-edition)
 
-To integrate the SAP Task Center applications into your new page please complete now these steps:
+For the integration of SAP Task Center into your new page please complete the upcoming steps:
 
 - Enter the **site manager** from SAP Build Work Zone, please have a look on the exercise 1 for the [URL](../ex1/README.md) in case you missed it.
 - Switch now over to the **content manager** to identify the content:
