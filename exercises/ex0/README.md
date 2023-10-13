@@ -1,26 +1,15 @@
-# Level 1 Heading
+# Overview
 
-In this exercise, you will...
+In this exercise, you will test the access to the SAP Business Platform environment and validate the configuration for your SAP BTP subaccount which will be used throughout the session.
 
-## Level 2 Heading
+## Enter the SAP BTP environment / SAP Build Lobby
 
-After completing these steps you will have....
+To get started please enter now the SAP Build Lobby to get started with this HandsOn:
 
-1.	Click here.
-<br>![](/exercises/ex0/images/00_00_0010.png)
+![](images/build_lobby.png)
 
-2.	Insert this code.
-``` abap
- DATA(params) = request->get_form_fields(  ).
- READ TABLE params REFERENCE INTO DATA(param) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-```
 
 ## Summary
 
-Now that you have ... 
+Congratulations! With this first exercise you have successfully validated access to SAP BTP and the SAP Build Lobby to get your hand's dirty by executing the next steps, continue now to the next exercise 
 Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
