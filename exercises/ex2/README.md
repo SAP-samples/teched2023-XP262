@@ -54,5 +54,29 @@ Afterwards you can simply select the site manager from the right hand side and l
 
 **Congratulations you have now successfully integrated SAP Task Center in your site !!!** :wave:
 
+## Exercise 2.3 Explore the SAP Task Center applications
+
+By entering now your SAP Build Work Zone page as end user, you should now able to see SAP Task Center as part of your page.
+
+![](images/bwz_page.jpg
+
+After you select the SAP Task Center web application you should now see at least one Task in the list:
+
+![](images/taskcenter.jpg)
+
+By selecting now one of these tasks you wil able to see all details similar like in the "local" my inbox in S4HC:
+
+![](images/taskdetail.jpg)
+
+In case you want to see more details of your task click **open App**:
+
+![](images/openapp.jpg)
+
+You will be then automatically logged in via **Single-Sign-On**, the reason for this seamless integration is that we make use of multiple **suite qualities** to integrate across our application portfolio.
+In this specific case we are using the **suite quality** **Consistent Security & Identity Management**
+
+![](images/suite_quality_overview.jpg)
+
+On BTP side we will user here the **SAP Cloud Identity Services** 
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
