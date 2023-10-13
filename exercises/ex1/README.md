@@ -68,18 +68,20 @@ After completing these steps you will have added an existing SAPUI5 app to a sit
    - Open App: In place
    - System: No System
    - App UI Technology: URL
-   - URL: https://sapui5.hana.ondemand.com/test-resources/sap/m/demokit/cart/webapp/index.html  
-   ![](/exercises/ex1/images/ui5_app_2.png)
+   - URL: https://sapui5.hana.ondemand.com/test-resources/sap/m/demokit/cart/webapp/index.html
+
+  ![](/exercises/ex1/images/ui5_app_2.png)
 
 > [!NOTE]
 > When working in your own environment, it’s better to integrate SAPUI5 apps by configuring a destination to the relevant system and setting the app properties to use this destination. In this case in the App UI Technology dropdown list, you would select SAPUI5. This configuration allows you to better manage your content in the Dev-QA-Prod lifecycle.
 
 5. Click the Navigation tab to specify the intent of your app.
-   The unique combination of a semantic object and an action is called an intent. It is used to define navigation to an application.
+<br> The unique combination of a semantic object and an action is called an intent. It is used to define navigation to an application.
 
 6. Enter the following values:
    - Semantic Object: Order
    - Action: Display
+     
   ![](/exercises/ex1/images/ui5_app_3.png)
     
 7. Click the Visualization tab.
@@ -90,13 +92,13 @@ After completing these steps you will have added an existing SAPUI5 app to a sit
    - Information: Order Now!
    - Icon: Click the browse icon, type my-sales-order, and click on the displayed icon to add it to your tile.
 
-    ![](/exercises/ex1/images/ui5_app_4.png)
+  ![](/exercises/ex1/images/ui5_app_4.png)
 
 9. On the right, you can see a preview of the tile with all the properties you entered. Click Save.
 
 10. View the app that you created
     Go back to the Content Manager by clicking on the breadcrumbs. You can see your app in the list of content items:
-    ![](/exercises/ex1/images/ui5_app_created.png)
+  ![](/exercises/ex1/images/ui5_app_created.png)
 
 ## Exercise 1.3 - Integrate a URL App 
 Create a URL app and add it to your site.
@@ -188,11 +190,77 @@ The unique combination of a semantic object and an action is called an intent. I
 
 ## Exercise 1.5 - Create a Space
 
-## Exercise 1.6 - Add Content to Role & Site
+1. In the Content Manager click Create and then select Space.
+![](/exercises/ex1/images/create_space_1.png)
+
+2. Enter a title for the space: **Home ###**.
+![](/exercises/ex1/images/create_space_2.png)
+
+3. In the Pages tab, you’ll see a list of pages and from here you can assign as many pages as you want to the space. We only have 1 page - the Overview ### page. From the Assignment Status column, click the toggle to assign the Overview page to the Home space.
+![](/exercises/ex1/images/create_space_3.png)
+
+4. Click Save.
+![](/exercises/ex1/images/create_space_4.png)
+
+5. Go back to the Content Manager using the breadcrumbs at the top. You’ll see that the space you created is added to the list of content items.
+
+## Exercise 1.6 - Add Content to Role
+In this step, you’ll assign previously created content to your role.
+
+Spaces are assigned to a role and users assigned to a specific role are able to access the space and see the relevant pages assigned to it. For this exercise, the role specific to your user ### is pre-created & mapped to your user for the login to work properly.
+
+1. From the Content Manager, click the **XP262_###_Role** role.
+![](/exercises/ex1/images/role_1.png)
+
+2. Click Edit
+![](/exercises/ex1/images/role_2.png)
+
+3. Under the Apps tab, you’ll see the previously created applications. Click the toggle to assign them to the role.
+![](/exercises/ex1/images/role_3.png)
+
+4. Under the Spaces tab, you’ll see the Home ### space you just created. Click the toggle to assign the Home ### space to role.
+![](/exercises/ex1/images/role_4.png)
+
+5. Click Save.
+![](/exercises/ex1/images/role_5.png)
+
+6. Navigate back to the Site Directory.
+![](/exercises/ex1/images/role_6.png)
+
+
+## Exercise 1.7 - Add Role(s) to Site
+In this step, you’ll assign previously updated (content assignment) role to the site. That will make it visible in the runtime experience of the site. 
+
+1. In the Site Directory, Click on the Settings for your **WZ Site_###**.
+![](/exercises/ex1/images/edit_site_1.png)
+
+2. Click Edit.
+![](/exercises/ex1/images/edit_site_2.png)
+
+3. Click Into the Input for Assign Items.
+![](/exercises/ex1/images/edit_site_3.png)
+
+4. Assing the following two roles via (+) to your site:
+   - XP262_###_Role
+   - XP262_INTERNAL_SALES_REP
+![](/exercises/ex1/images/edit_site_4.png)
+
+5. Save and verify the assigned roles.
+![](/exercises/ex1/images/edit_site_5.png)
+
+6. Navigate back to Site Directory
+![](/exercises/ex1/images/edit_site_6.png)
+
+7. click the Go to Site icon.
+![](/exercises/ex1/images/edit_site_7.png)
+
+8. Verify Results.
+<br> This is what you’ll see - under the **Home ###** space, you have the **Overview ###** page. In the **My Local Apps** section, you have the 2 apps **External Community ###** and **New Orders ###** that you added. In the **My S/4HANA Apps** section, you have the 3 apps that you added. 
+![](/exercises/ex1/images/edit_site_8.png)
 
 ## Summary
 
-You've now ...
+You've now created a site including locally & integrated business applications and made those applications available via a page/space to users in your site.
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Integrate and explore SAP Task Center](../ex2/README.md)
 
