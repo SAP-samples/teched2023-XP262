@@ -30,7 +30,6 @@ To integrate the SAP Task Center applications please completing these steps:
 ![](images/content_manager_tc.jpg)
 4. 
 
-
 By executing these steps you should have the SAP Task Center tiles available at the SAP Build Work Zone site manger:
 
 ![](images/content_manager_tc.jpg)
