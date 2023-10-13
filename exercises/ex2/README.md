@@ -77,6 +77,6 @@ In this specific case we are using the **suite quality** **Consistent Security &
 
 ![](images/suite_quality_overview.jpg)
 
-On BTP side we will user here the **SAP Cloud Identity Services** 
+From a BTP side we make use here of **SAP Cloud Identity Services** 
 
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
