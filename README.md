@@ -38,10 +38,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Add SAP Task Center tile to your site](exercises/ex2#exercise-22-add-the-sap-task-center-tile-to-your-site)
     - [Exercise 2.2 - Validate and explore the task](exercises/ex2#exercise-22-sub-exercise-2-description)
 - [Exercise 3 - Integrate and explore SAP Mobile Start](exercises/ex2/)
-    - [Exercise 3.1 - Enable SAP Mobile Start for Your site](exercises/ex2#exercise-31-sub-exercise-1-description)
-    - [Exercise 3.2 - Add mobile app as content](exercises/ex2#exercise-32-sub-exercise-2-description)
-    - [Exercise 3.3 - Activate Your site in SAP Mobile Start](exercises/ex2#exercise-33-sub-exercise-3-description)
-    - [Exercise 3.4 - Validate and explore content on your mobile device](exercises/ex2#exercise-34-sub-exercise-4-description)
+    - [Exercise 3.1 - Enable SAP Mobile Start for Your site](exercises/ex3#exercise-31---enable-sap-mobile-start-in-site-settings)
+    - [Exercise 3.2 - Add mobile app as content](exercises/ex3#exercise-32---add-mobile-app-as-content)
+    - [Exercise 3.3 - Activate Your site in SAP Mobile Start](exercises/ex3#exercise-33---activate-your-site-in-sap-mobile-start)
+    - [Exercise 3.4 - Validate and explore content on your mobile device](exercises/ex3#exercise-34---validate-and-explore-content-on-your-mobile-device)
 
 **IMPORTANT**
 
