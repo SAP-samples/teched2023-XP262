@@ -6,7 +6,7 @@ In this exercise, you will test the access to the SAP Business Platform environm
 
 To get started please enter now the SAP Build Lobby to get started with this HandsOn:
 
-![](images/build_lobby.png)
+![](images/build_lobby.jpg)
 
 
 ## Summary
