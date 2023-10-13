@@ -55,7 +55,4 @@ Afterwards you can simply select the site manager from the right hand side and l
 **Congratulations you have now successfully integrated SAP Task Center in your site !!!** :wave:
 
 
-2.	Click here.
-
-
 Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
