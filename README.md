@@ -22,9 +22,7 @@ The requirements to follow the exercises in this repository are to have knowledg
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
-- [Getting Started / Enter Your SAP BTP environment](exercises/ex0/)
+- [Getting Started / Enter your SAP BTP environment](exercises/ex0/)
 - [Exercise 1 - Create and configure Your SAP Build Work Zone site](exercises/ex1/)
     - [Exercise 1.1 - Create Your "site"](exercises/ex1#exercise-11---create-your-site)
     - [Exercise 1.2 - Integrate an SAPUI5 App](exercises/ex1#exercise-12---integrate-an-sapui5-app)
