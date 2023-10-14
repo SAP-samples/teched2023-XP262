@@ -41,10 +41,6 @@ The requirements to follow the exercises in this repository are to have knowledg
     - [Exercise 3.3 - Activate Your site in SAP Mobile Start](exercises/ex3#exercise-33---activate-your-site-in-sap-mobile-start)
     - [Exercise 3.4 - Validate and explore content on your mobile device](exercises/ex3#exercise-34---validate-and-explore-content-on-your-mobile-device)
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## Contributing
 Please read the [CONTRIBUTING.md](./CONTRIBUTING.md) to understand the contribution guidelines.
 
