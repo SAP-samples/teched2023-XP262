@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called XP262 - Combining SAP BTP Technologies in SAP’s New Entry Point Experience
+This repository contains the material for the SAP TechEd 2023 session called XP262 - Combining SAP BTP Technologies in SAP’s New Entry Point Experience
 
 ## Overview
 
