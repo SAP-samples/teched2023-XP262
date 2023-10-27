@@ -75,7 +75,8 @@ In case you want to see more details of your task click **open App**:
 You will be then automatically logged in via **Single-Sign-On**, based on the usage of **SAP Cloud Identity Services**.
 
 ---
-**Background: The reason for this seamless integration is that we make use of multiple suite qualities to integrate across our application portfolio. In this specific case we are using the suite quality Consistent Security & Identity Management**
+> [!NOTE]
+> The reason for this seamless integration is that we make use of multiple suite qualities to integrate across our application portfolio. In this specific case we are using the suite quality Consistent Security & Identity Management**
 
 ![](images/suite_quality_overview.jpg)
 ---
