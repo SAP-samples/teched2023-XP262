@@ -39,7 +39,7 @@ In this step you are adding additional content that will become available in SAP
     ![](/exercises/ex3/images/mobile_content_3.png)
 
     If you are using Android, please use the following values:
-- URL to Launch App: **bizx://?urlType=deeplink\&amp;deeplinkType=profile**
+- URL to Launch App: __bizx://?urlType=deeplink\&amp;deeplinkType=profile__
 - URL to Install App: https://play.google.com/store/apps/details?id=com.successfactors.successfactorsInformation
 
 4. Add Navigation Parameters
