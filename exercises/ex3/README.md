@@ -8,7 +8,7 @@ In this exercise you’ll access your SAP Build Work Zone site from your mobile 
 ## Exercise 3.1 - Enable SAP Mobile Start in Site Settings
 After completing these steps you will have enabled your site for SAP Mobile Start.
 
-1. Access the Site Directory and Click the Settings icon for your **WZ Site ###*.
+1. Access the Site Directory and Click the Settings icon for your **WZ Site ###**.
   ![](/exercises/ex3/images/sms_1.png)
 
 2. Click Edit.
@@ -39,11 +39,11 @@ In this step you are adding additional content that will become available in SAP
     ![](/exercises/ex3/images/mobile_content_3.png)
 
     If you are using Android, please use the following values:
-- URL to Launch App: bizx://?urlType=deeplink\&amp;deeplinkType=profile
+- URL to Launch App: **bizx://?urlType=deeplink\&amp;deeplinkType=profile**
 - URL to Install App: https://play.google.com/store/apps/details?id=com.successfactors.successfactorsInformation
 
 4. Add Navigation Parameters
-- Semantic Object: SFSF
+- Semantic Object: **SFSF**
 - Action: Launch
 ![](/exercises/ex3/images/mobile_content_4.png)
 
