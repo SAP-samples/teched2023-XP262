@@ -76,7 +76,7 @@ You will be then automatically logged in via **Single-Sign-On**, based on the us
 
 ---
 > [!NOTE]
-> The reason for this seamless integration is that we make use of multiple suite qualities to integrate across our application portfolio. In this specific case we are using the suite quality Consistent Security & Identity Management**
+> The reason for this seamless integration is that we make use of multiple suite qualities to integrate across our application portfolio. In this specific case we are using the suite quality Consistent Security & Identity Management.
 
 ![](images/suite_quality_overview.jpg)
 ---
