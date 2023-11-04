@@ -6,8 +6,6 @@ In this exercise, we will create a **purchase requisition** in SAP S/4HANA Cloud
 
 - To create a PR in S4HC please enter the following URL (https://myxxxx.s4hana.cloud.sap/ui#PurchaseOrder-manage&/C_PurchaseOrderTP(PurchaseOrder='4500000026',DraftUUID=guid'00000000-0000-0000-0000-000000000000',IsActiveEntity=true))
 
-![](images/s4prcopy.jpg)
-
 - In the upcoming screen Click now on the **copy** button:
 
 ![](images/s4prcopy_order.jpg)
